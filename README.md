@@ -12,4 +12,4 @@ This bot script can be ran continuously or as desired.
 
 
 ## Adendum:
-I chose pickle because after 100 000 entries the size of a json file is rather long, at around 5.2MB vs 1.2MB.
+I chose pickle because after 100 000 entries the size of a json file is rather long, about 5 times as large.
