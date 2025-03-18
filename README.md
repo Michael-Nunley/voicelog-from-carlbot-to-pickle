@@ -8,6 +8,8 @@ This assumes you have a dedicated discord channel set up for carlbot to post voi
 Be sure you have python 3 and nextcord-py installed. 
 Modify the python file to use your corrisponding bot token, guild id, log channel id, output channel id, and the name of any channels you want to be kept separate from the total time spent in voice channels calculation.
 
+This bot script can be ran continuously or as desired. 
+
 
 ## Adendum:
 I chose pickle because after 100 000 entries the size of a json file is rather long, at around 5.2MB vs 1.2MB.
