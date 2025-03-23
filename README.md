@@ -12,5 +12,5 @@ This bot script can be ran continuously or as desired.
 
 
 ## Adendum:
-I chose pickle because after 100 000 entries the size of a json file is rather long, about 5 times as large.
+I chose pickle because after 100 000 entries the size of a json file is rather large, about 5 times as large.
 You can use https://gist.github.com/romgapuz/c7a4cedb85f090ac1b55383a58fa572c to convert the pickle file to a json file.
